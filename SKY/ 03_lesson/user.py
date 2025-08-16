@@ -10,5 +10,4 @@ class User:
         return self.last_name
 
     def get_user_info(self):
-        return f"User: { self.first_name}, {self.last_name}"
-
+        return f"User: {self.first_name}, {self.last_name}"
