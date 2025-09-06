@@ -20,3 +20,4 @@ search_box = browser.find_element(By.CSS_SELECTOR, "div#flash-messages").text
 print()
 
 browser.quit()
+

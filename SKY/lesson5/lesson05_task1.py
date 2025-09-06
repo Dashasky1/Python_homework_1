@@ -14,9 +14,3 @@ driver.get(" http://uitestingplayground.com/classattr")
 search_input = driver.find_element(By.CSS_SELECTOR, "button.btn.class2").click()
 
 print("кнопка найдена и нажата")
-
-
-
-
-
-

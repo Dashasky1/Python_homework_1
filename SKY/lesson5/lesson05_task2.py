@@ -13,4 +13,3 @@ driver.get("http://uitestingplayground.com/dynamicid")
 elements = driver.find_elements(By.CLASS_NAME, 'btn btn-primary')
 
 print("кнопка найдена и нажата")
-#
