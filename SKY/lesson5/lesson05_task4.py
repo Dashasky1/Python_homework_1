@@ -25,3 +25,4 @@ raw_text = element_present.text
 print(raw_text)
 
 browser.quit()
+
