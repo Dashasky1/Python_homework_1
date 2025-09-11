@@ -7,10 +7,10 @@ browser.get("http://the-internet.herokuapp.com/inputs")
 
 search_box = browser.find_element(By.CSS_SELECTOR, "input")
 
-search_box.send_keys("123")
+search_box.send_keys("Sky")
 
 search_box.clear()
 
-search_box.send_keys("456")
+search_box.send_keys("Pro")
 
 browser.quit()
