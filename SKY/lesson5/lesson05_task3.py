@@ -14,3 +14,4 @@ search_box.clear()
 search_box.send_keys("Pro")
 
 browser.quit()
+
